@@ -1,0 +1,40 @@
+.week01{
+  height: 30%;
+  width: 57%;
+  /* background-color: aqua; */
+
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 20px;
+  margin: 10px;
+
+  box-shadow: 0 0 30px white;
+
+  position: relative;
+  top: 80px;
+  left: 20%;
+
+  text-align: center;
+  /*  */
+}
+#horiLine{
+  background-color: white;
+  padding: 1px;
+
+}
+.video{
+  height: 50%;
+  width: 57%;
+  background-color: black;
+  border: 2px solid white;
+  border-radius: 20px;
+  margin: 10px;
+  position: relative;
+  top: 250px;
+  left: 20%;
+  box-shadow: 0 0 30px white;
+}
+#videoo{
+  width: 100%;
+  border-radius: 20px;
+}
